@@ -1,5 +1,5 @@
-# FACIAL-EXPRESSION-
-Facial Eexpression using CNN-LSTM in MMA Dataset 
+# Affective-States-Classification
+ 
 A neural network based on CNN-LSTM to predict the facial expression
 from MMA dataset which can classify 7 affective states such as angry, disgust, fear, happy,
 neutral, sad, and surprise. Features from the pictures automatically extracted in Convolutional
